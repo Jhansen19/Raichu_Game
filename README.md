@@ -1,7 +1,8 @@
-# Raichu Game Report
 By: Jonathan Hansen
 
 Date: 10/2023
+
+# Raichu Game Report
 
 **The problem:**
 Game of Raichu that contains various pieces that have different movements. 
