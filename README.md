@@ -1,5 +1,6 @@
 # Raichu Game Report
 By: Jonathan Hansen
+
 Date: 10/2023
 
 **The problem:**
