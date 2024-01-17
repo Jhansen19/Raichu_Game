@@ -4,10 +4,15 @@ Date: 10/2023
 
 **The problem:**
 Game of Raichu that contains various pieces that have different movements. 
+
 **The goal:** is to capture all the opponents’ pieces. 
+
 **The initial state:** the initial state is the start of the board how it is given before any pieces move. 
+
 **The state space:** this all spaces in the 2D board space. 
+
 **Successor function:** this function gets all the potential moves for a given player from its current pieces’ locations. 
+
 **Goal State:** the goal is when the opponent player has no pieces left on the board. Description:
 
 - The program uses several functions to determine how to move, a couple these important ones are find_best_move, minimax, and make_move.
