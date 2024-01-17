@@ -13,4 +13,4 @@ Game of Raichu that contains various pieces that have different movements. The g
 - I added values to the pieces and advancement values so that Pichus and Pikachu’s gain value as they advance to the end of the board to become a Raichu.
 - At the point of writing this I am trying to figure out how to get the pieces to move correctly. The functions creating the moves give back lists of lists that have the correct values of moves for each character. However, when that move is performed it is not the correct move. I am not currently sure how this is happening when the moves generated are in fact correct.
 
-- 
+
